@@ -6,5 +6,7 @@
 
 # 2. iPhone设置方法 
 
-![image description](v1.png)
-![image description](v2.png)
+![image description](i1.png)
+![image description](i1.1.png)
+![image description](i2.png)
+![image description](i2.2.png)
