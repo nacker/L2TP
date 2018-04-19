@@ -16,3 +16,5 @@
 
 - Windows 7设置方法可参考 
 > http://service.tp-link.com.cn/detail_article_725.html
+
+- Windows 10设置方法可参考
